@@ -1,6 +1,6 @@
-# CSC271 - Managing Non-Memory Resources 
+# CSC270 - GC Fundamentals 
 
-This repository contains exercises for the Xamarin University [CSC271 - Managing Non-Memory Resources ](https://university.xamarin.com/classes/#managing-non-memory-resources-csc271) training course.
+This repository contains exercises for the Xamarin University [CSC270 - GC Fundamentals ](https://university.xamarin.com/classes/#gc-fundamentals-csc270) training course.
 
 Xamarin University offers live and self-guided training on app development for Windows, iOS, and Android. Our self-guided courses are free and let you earn credit towards your Xamarin certification. You can upgrade to a full Xamarin University subscription to get unlimited live instructor-led courses from our extensive catalog and take a certification exam. Please visit [Xamarin University](https://university.xamarin.com/) to learn more or [start a trial subscrption](https://www.xamarin.com/university#request-trial).
 
